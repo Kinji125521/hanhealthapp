@@ -1,0 +1,51 @@
+.login {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: center/cover url('~@/assets/login.png');
+
+  .login-container {
+    width: 440px;
+    height: 480px;
+    background-color: rgb(231, 227, 227);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 50px rgb(0 0 0 / 10%);
+    opacity: 0.8;
+  }
+
+  .login-logo {
+    width: 200px;
+    height: 180px;
+    display: block;
+    margin: 0 auto 20px;
+  }
+
+  .login-checkbox-label {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(194, 194, 24);
+  }
+
+  .login-format {
+    width: 440;
+    height: 20px;
+  }
+
+  .login-form-forgot {
+    font-size: 16px;
+    font-weight: bold;
+    float: right;
+    color: red;
+  }
+
+  .login-form-register {
+    font-size: 16px;
+    font-weight: bold;
+    color: green;
+  }
+}

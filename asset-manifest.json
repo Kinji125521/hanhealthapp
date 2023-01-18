@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hanhealthapp/static/css/main.8ac74985.css",
-    "main.js": "/hanhealthapp/static/js/main.de626a0c.js",
+    "main.js": "/hanhealthapp/static/js/main.fd28fa53.js",
     "static/css/11.82ef4d4e.chunk.css": "/hanhealthapp/static/css/11.82ef4d4e.chunk.css",
     "static/js/11.616975ff.chunk.js": "/hanhealthapp/static/js/11.616975ff.chunk.js",
     "static/css/777.60bd63d4.chunk.css": "/hanhealthapp/static/css/777.60bd63d4.chunk.css",
@@ -31,7 +31,7 @@
     "static/media/logo.png": "/hanhealthapp/static/media/logo.5c952a4a295eab887d56.png",
     "index.html": "/hanhealthapp/index.html",
     "main.8ac74985.css.map": "/hanhealthapp/static/css/main.8ac74985.css.map",
-    "main.de626a0c.js.map": "/hanhealthapp/static/js/main.de626a0c.js.map",
+    "main.fd28fa53.js.map": "/hanhealthapp/static/js/main.fd28fa53.js.map",
     "11.82ef4d4e.chunk.css.map": "/hanhealthapp/static/css/11.82ef4d4e.chunk.css.map",
     "11.616975ff.chunk.js.map": "/hanhealthapp/static/js/11.616975ff.chunk.js.map",
     "777.60bd63d4.chunk.css.map": "/hanhealthapp/static/css/777.60bd63d4.chunk.css.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.8ac74985.css",
-    "static/js/main.de626a0c.js"
+    "static/js/main.fd28fa53.js"
   ]
 }
